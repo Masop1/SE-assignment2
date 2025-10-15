@@ -1,2 +1,1 @@
-print("Hello, World!")
-print("Hi! Mason Heiskell")
+print("Hello from main branch")
